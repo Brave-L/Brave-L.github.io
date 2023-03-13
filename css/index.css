@@ -6865,7 +6865,7 @@ div#archive {
   border: 0.5px solid #404040;
 }
 
-/* 鼠标样式 */
+/* 鼠标样式 
 #cursor {
   position: fixed;
   width: 16px;
@@ -6900,7 +6900,7 @@ div#archive {
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
-
+*/
 /* twikoo评论美化 */
 /* 自定义twikoo评论输入框高度 */
 #twikoo .el-textarea textarea {
@@ -9517,6 +9517,51 @@ hr:before {
 .github-badge img:hover {
   scale: 1.05;
   transition: all 0.3s ease-in-out;
+}
+
+/*鼠标*/
+html,
+body {
+  cursor: url('/shubiao/Arrow.cur'), auto;
+}
+.article-sort-item-time time,
+#recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap > .post-meta-date,
+.aplayer .aplayer-info .aplayer-music {
+  cursor: url('/shubiao/Arrow.cur'), auto !important;
+}
+a,
+button,
+#page-header #scroll-down,
+.swiper-pagination-clickable .swiper-pagination-bullet,
+#article-container .highlight-tools .copy-button,
+#article-container .highlight-tools .expand,
+.tk-submit-action-icon,
+.tk-icon.__comments,
+.layout > div:not(.recent-posts) .pagination .page-number,
+.aplayer .aplayer-pic,
+.aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon,
+div.aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed
+  > div.aplayer-body
+  > div.aplayer-info
+  > div.aplayer-controller
+  > div.aplayer-time.aplayer-time-narrow
+  > div
+  > div
+  > div
+  > div.aplayer-volume,
+div.aplayer.no-destroy.no-reload.aplayer-withlist.aplayer-fixed
+  > div.aplayer-body
+  > div.aplayer-info
+  > div.aplayer-controller
+  > div.aplayer-bar-wrap,
+.aplayer .aplayer-list ol li {
+  cursor: url('/shubiao/Hand2.cur'), auto !important;
+}
+
+input,
+textarea,
+.fancybox__caption {
+  cursor: url('/shubiao/IBeam.cur'), auto;
 }
 
 .search-dialog {

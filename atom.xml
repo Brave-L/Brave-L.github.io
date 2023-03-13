@@ -6,7 +6,7 @@
   <link href="https://limh.cc/atom.xml" rel="self"/>
   
   <link href="https://limh.cc/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-03-13T06:03:04.154Z</updated>
   <id>https://limh.cc/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hb</title>
+    <link href="https://limh.cc/posts/4f41f324.html"/>
+    <id>https://limh.cc/posts/4f41f324.html</id>
+    <published>2023-03-13T05:55:57.000Z</published>
+    <updated>2023-03-13T06:03:04.154Z</updated>
+    
+    <content type="html"><![CDATA[<object class="ghbdage" style="margin-inline:5px" title="上班摸鱼中" standby="loading..." data="https://img.shields.io/badge/%E6%B8%85%E9%A3%8E-%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E4%B8%AD-orange?logo=github&color=brightgreen&link=https://limh.cc/&style=social&logoWidth=20"></object>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;object class=&quot;ghbdage&quot; style=&quot;margin-inline:5px&quot; title=&quot;上班摸鱼中&quot; standby=&quot;loading...&quot; data=&quot;https://img.shields.io/badge/%E6%B8%85%E9%A3%8E-%</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
