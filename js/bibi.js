@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://kkapi.limh.cc/api/ispeak?author=640f10add7bf09b60c501128' // 记住替换为你的API链接
+let Url = 'https://kkapi.limh.cc/api/ispeak?author=640f10add7bf09b60c501128&page=' // 记住替换为你的API链接
 
 
 window.addEventListener('DOMContentLoaded', () => {
